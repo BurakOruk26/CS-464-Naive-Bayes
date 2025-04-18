@@ -17,3 +17,8 @@ Following Python libraries are needed to run these codes:
 There are two steps to obtain results for question 3:
 1. Run train_model.py to create model.json.
 2. Run evaluate_model.py to do predictions on the test dataset and then receive the confusion matrix.
+
+# Results
+Following is the confusion matrix of the trained model evaluated on the test dataset:
+
+![ConfusionMatrix](https://github.com/BurakOruk26/CS-464-Naive-Bayes/blob/main/confusion_matrix.png)
